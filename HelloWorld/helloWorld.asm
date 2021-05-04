@@ -176,7 +176,7 @@ NotWMDestroy:
 		push	hdc
 		call	SetBkMode									; caixa de texto transparente
 		
-		lea 	eax, rect               						; Determina o tamanho da tela para colocar o texto no centro
+		lea 	eax, rect               					; Determina o tamanho da tela para colocar o texto no centro
 		push    eax
 		push    hWnd
 		call    GetClientRect
