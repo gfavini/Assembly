@@ -8,6 +8,6 @@ Estou utilizado o compilador [MASM32 SKD](https://www.masm32.com/) para compila�
 
 Se você estiver utilizando o MASM32 é necessário que voce inclua o endereço **C:\masm32\bin** no Path.
 
-Para compilar vá até o diretório do seu arquivo asm e digite: ml /coff <arquivo.asm>
+Para compilar vá até o diretório do seu arquivo asm e digite: **ml /coff <arquivo.asm>**
 
 
