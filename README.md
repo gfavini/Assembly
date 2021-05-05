@@ -2,7 +2,7 @@
  
 # Compilador Windows
 
-Estou utilizado o compilador |MASM32 SKD|(https://www.masm32.com/) para compilação, porém fique a vontade para comilar com sua ferramenta favorita
+Estou utilizado o compilador [MASM32 SKD](https://www.masm32.com/) para compilação, porém fique a vontade para comilar com sua ferramenta favorita
 
 ## Compialr pela linha de comando
 
